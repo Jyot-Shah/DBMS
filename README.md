@@ -68,7 +68,7 @@ DBMS/
 
 ## License
 
-This project is for educational purposes. Refer [LICENSE](LICENSE).
+This project is licensed under the MIT License. Refer [LICENSE](LICENSE).
 
 ## Author
 
