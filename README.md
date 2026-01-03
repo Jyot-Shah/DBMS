@@ -61,7 +61,8 @@ DBMS/
 ├── MainMenu.py             # Main menu navigation
 ├── Exit.py                 # Exit main menu function
 ├── requirements.txt        # Python dependencies
-├── .env                    # Environment variables (not tracked in git)
+├── .env                    # Environment variables (create this)
+├── .gitignore              # Files that should be ignored by git
 ├── LICENSE                 # License file
 └── README.md               # Project documentation
 ```
